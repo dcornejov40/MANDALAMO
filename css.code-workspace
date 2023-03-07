@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "css"
+		},
+		{
+			"path": "Paginas"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Paginas",
+		"git.ignoreLimitWarning": true
+	}
+}

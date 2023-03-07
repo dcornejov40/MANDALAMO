@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Georgia, Times, 'Times New Roman', serif
+}
+
+body {
+  background-color: #a08395;
+}
+
+header {
+  padding: 10px 30px;
+  background-color: rgb(159, 124, 199);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+ol {
+  float: left;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  list-style-type: none;
+  text-align: center
+}
+
+.menu_item {
+  list-style: none;
+  color: antiquewhite;
+  display: flex;
+  gap: 10px;
+
+}
+
+nav {
+  float: right;
+}
+
+nav ul {
+  list-style: none;
+  overflow: hidden;
+}
+
+nav ul li {
+  float: right;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px;
+  color: #f1ebeb;
+  text-decoration: none;
+}
+
+.logo {
+  color: darkturquoise;
+  text-decoration: none;
+  text-align: left;
+}
+
+.FOTO1 {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  float: left;
+  width: 20px 20px
+}
+
+.FOTO2 {
+  padding: 10px;
+  float: left;
+  width: 20px 20px
+}
+
+.FOTO3 {
+  padding: 10px;
+  margin: 10px;
+  border: 2px solid black;
+  float: left;
+  width: 250px;
+}
+
+.imagen {
+  padding: 40px;
+  display: flex;
+  gap: 40px;
+}
+
+.fotogenerico0 {
+  background-color: pink;
+  padding: 20px;
+  border-radius: 16px;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.imagen2 {
+  padding: 40px;
+  display: flex;
+  gap: 40px;
+}
+
+.generico1 {
+  background-color: pink;
+  padding: 20px;
+  border-radius: 16px;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+/* CUIDA TU PIEL*/
+.H1 {
+  text-orientation: sideways-right;
+  text-orientation: use-glyph-orientation;
+}
